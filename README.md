@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I am NymphoNyx. 
 
+- 🔭 I’m currently working on SuperSecret Project for Super-Secret Agency
+- 🌱 I’m currently learning Something Super-Secret.
+- 👯 I’m not looking to collaborate on anything at the moment.
+- 🤔 I’m not looking for help with anything at the moment.
+- 💬 Don't Ask me about anything. I cannot answer it.
+- 📫 How to reach me: You Don't! I will 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Fun is no longer fun. Fact is it is dead!1
 <!--
 **NymphoNyx/NymphoNyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
